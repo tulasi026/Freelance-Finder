@@ -1,5 +1,4 @@
 # 💼 Freelancer Finder
-
 A full-stack web application to connect freelancers with clients, enabling seamless project collaboration and real-time communication.
 
 ## 🚀 Features
